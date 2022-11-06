@@ -3,6 +3,7 @@ A method to implement try, except, else and finally keyword in a metho which ask
 but if the user adds a string or alphabet, leads to an error.
 also the method keeps on running on a loop until the break command is reached.
 """
+
 def interact():
     while True:
         try:
